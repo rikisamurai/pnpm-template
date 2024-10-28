@@ -88,6 +88,14 @@ tsconfig.tsbuildinfo
 
 ## ide
 .idea/
+.vscode/*
+~/.vscode/
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 
 
 dist/
