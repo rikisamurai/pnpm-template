@@ -6,4 +6,4 @@ export default {
     // @see https://commitlint.js.org/reference/rules.html#type-enum
     'type-enum': [2, 'always', ['feat', 'fix', 'perf', 'refactor', 'test', 'docs', 'chore', 'style', 'revert', 'ci', 'build']],
   },
-};
+}
